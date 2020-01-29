@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189084509493",
+    "firebase_url": "https://docschedo.firebaseio.com",
+    "project_id": "docschedo",
+    "storage_bucket": "docschedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189084509493:android:dffd43726c97c6a6f6587c",
+        "android_client_info": {
+          "package_name": "Doc.Schedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189084509493-pfu15v5r6u4c0rie4hfnlush57fh0nfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2PGHnpCMMdDUF1wwedpMvhhxc8fcyQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189084509493-pfu15v5r6u4c0rie4hfnlush57fh0nfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189084509493-3puc59292tiu7e1dqgp62ojb9imc6iag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "DocSchedo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
